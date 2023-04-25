@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\RPGPokemonAlpha\bin\Debug\net6.0\RPGPokemonAlpha.exe
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\RPGPokemonAlpha\bin\Debug\net6.0\RPGPokemonAlpha.deps.json
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\RPGPokemonAlpha\bin\Debug\net6.0\RPGPokemonAlpha.runtimeconfig.json
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\RPGPokemonAlpha\bin\Debug\net6.0\RPGPokemonAlpha.dll
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\RPGPokemonAlpha\bin\Debug\net6.0\RPGPokemonAlpha.pdb
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\RPGPokemonAlpha\obj\Debug\net6.0\RPGPokemonAlpha.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\RPGPokemonAlpha\obj\Debug\net6.0\RPGPokemonAlpha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\RPGPokemonAlpha\obj\Debug\net6.0\RPGPokemonAlpha.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\RPGPokemonAlpha\obj\Debug\net6.0\RPGPokemonAlpha.AssemblyInfo.cs
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\RPGPokemonAlpha\obj\Debug\net6.0\RPGPokemonAlpha.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\RPGPokemonAlpha\obj\Debug\net6.0\RPGPokemonAlpha.dll
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\RPGPokemonAlpha\obj\Debug\net6.0\refint\RPGPokemonAlpha.dll
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\RPGPokemonAlpha\obj\Debug\net6.0\RPGPokemonAlpha.pdb
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\RPGPokemonAlpha\obj\Debug\net6.0\RPGPokemonAlpha.genruntimeconfig.cache
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\RPGPokemonAlpha\obj\Debug\net6.0\ref\RPGPokemonAlpha.dll

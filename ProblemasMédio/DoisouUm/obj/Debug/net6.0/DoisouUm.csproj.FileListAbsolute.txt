@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\DoisouUm\obj\Debug\net6.0\DoisouUm.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\DoisouUm\obj\Debug\net6.0\DoisouUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\DoisouUm\obj\Debug\net6.0\DoisouUm.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\DoisouUm\obj\Debug\net6.0\DoisouUm.AssemblyInfo.cs
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\DoisouUm\obj\Debug\net6.0\DoisouUm.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\DoisouUm\bin\Debug\net6.0\DoisouUm.exe
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\DoisouUm\bin\Debug\net6.0\DoisouUm.deps.json
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\DoisouUm\bin\Debug\net6.0\DoisouUm.runtimeconfig.json
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\DoisouUm\bin\Debug\net6.0\DoisouUm.dll
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\DoisouUm\bin\Debug\net6.0\DoisouUm.pdb
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\DoisouUm\obj\Debug\net6.0\DoisouUm.dll
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\DoisouUm\obj\Debug\net6.0\refint\DoisouUm.dll
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\DoisouUm\obj\Debug\net6.0\DoisouUm.pdb
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\DoisouUm\obj\Debug\net6.0\DoisouUm.genruntimeconfig.cache
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\DoisouUm\obj\Debug\net6.0\ref\DoisouUm.dll

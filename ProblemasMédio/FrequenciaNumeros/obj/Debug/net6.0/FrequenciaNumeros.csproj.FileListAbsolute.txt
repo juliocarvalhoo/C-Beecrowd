@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\FrequenciaNumeros\bin\Debug\net6.0\FrequenciaNumeros.exe
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\FrequenciaNumeros\bin\Debug\net6.0\FrequenciaNumeros.deps.json
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\FrequenciaNumeros\bin\Debug\net6.0\FrequenciaNumeros.runtimeconfig.json
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\FrequenciaNumeros\bin\Debug\net6.0\FrequenciaNumeros.dll
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\FrequenciaNumeros\bin\Debug\net6.0\FrequenciaNumeros.pdb
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\FrequenciaNumeros\obj\Debug\net6.0\FrequenciaNumeros.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\FrequenciaNumeros\obj\Debug\net6.0\FrequenciaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\FrequenciaNumeros\obj\Debug\net6.0\FrequenciaNumeros.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\FrequenciaNumeros\obj\Debug\net6.0\FrequenciaNumeros.AssemblyInfo.cs
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\FrequenciaNumeros\obj\Debug\net6.0\FrequenciaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\FrequenciaNumeros\obj\Debug\net6.0\FrequenciaNumeros.dll
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\FrequenciaNumeros\obj\Debug\net6.0\refint\FrequenciaNumeros.dll
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\FrequenciaNumeros\obj\Debug\net6.0\FrequenciaNumeros.pdb
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\FrequenciaNumeros\obj\Debug\net6.0\FrequenciaNumeros.genruntimeconfig.cache
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\FrequenciaNumeros\obj\Debug\net6.0\ref\FrequenciaNumeros.dll

@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\JogodePaula\bin\Debug\net6.0\JogodePaula.exe
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\JogodePaula\bin\Debug\net6.0\JogodePaula.deps.json
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\JogodePaula\bin\Debug\net6.0\JogodePaula.runtimeconfig.json
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\JogodePaula\bin\Debug\net6.0\JogodePaula.dll
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\JogodePaula\bin\Debug\net6.0\JogodePaula.pdb
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\JogodePaula\obj\Debug\net6.0\JogodePaula.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\JogodePaula\obj\Debug\net6.0\JogodePaula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\JogodePaula\obj\Debug\net6.0\JogodePaula.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\JogodePaula\obj\Debug\net6.0\JogodePaula.AssemblyInfo.cs
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\JogodePaula\obj\Debug\net6.0\JogodePaula.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\JogodePaula\obj\Debug\net6.0\JogodePaula.dll
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\JogodePaula\obj\Debug\net6.0\refint\JogodePaula.dll
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\JogodePaula\obj\Debug\net6.0\JogodePaula.pdb
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\JogodePaula\obj\Debug\net6.0\JogodePaula.genruntimeconfig.cache
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\JogodePaula\obj\Debug\net6.0\ref\JogodePaula.dll

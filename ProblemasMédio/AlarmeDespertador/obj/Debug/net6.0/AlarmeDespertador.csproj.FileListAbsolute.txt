@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Médio\AlarmeDespertador\bin\Debug\net6.0\AlarmeDespertador.exe
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Médio\AlarmeDespertador\bin\Debug\net6.0\AlarmeDespertador.deps.json
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Médio\AlarmeDespertador\bin\Debug\net6.0\AlarmeDespertador.runtimeconfig.json
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Médio\AlarmeDespertador\bin\Debug\net6.0\AlarmeDespertador.dll
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Médio\AlarmeDespertador\bin\Debug\net6.0\AlarmeDespertador.pdb
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Médio\AlarmeDespertador\obj\Debug\net6.0\AlarmeDespertador.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Médio\AlarmeDespertador\obj\Debug\net6.0\AlarmeDespertador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Médio\AlarmeDespertador\obj\Debug\net6.0\AlarmeDespertador.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Médio\AlarmeDespertador\obj\Debug\net6.0\AlarmeDespertador.AssemblyInfo.cs
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Médio\AlarmeDespertador\obj\Debug\net6.0\AlarmeDespertador.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Médio\AlarmeDespertador\obj\Debug\net6.0\AlarmeDespertador.dll
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Médio\AlarmeDespertador\obj\Debug\net6.0\refint\AlarmeDespertador.dll
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Médio\AlarmeDespertador\obj\Debug\net6.0\AlarmeDespertador.pdb
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Médio\AlarmeDespertador\obj\Debug\net6.0\AlarmeDespertador.genruntimeconfig.cache
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Médio\AlarmeDespertador\obj\Debug\net6.0\ref\AlarmeDespertador.dll

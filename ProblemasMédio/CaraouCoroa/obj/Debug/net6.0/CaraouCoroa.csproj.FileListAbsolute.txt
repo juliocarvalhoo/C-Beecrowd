@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\CaraouCoroa\bin\Debug\net6.0\CaraouCoroa.exe
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\CaraouCoroa\bin\Debug\net6.0\CaraouCoroa.deps.json
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\CaraouCoroa\bin\Debug\net6.0\CaraouCoroa.runtimeconfig.json
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\CaraouCoroa\bin\Debug\net6.0\CaraouCoroa.dll
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\CaraouCoroa\bin\Debug\net6.0\CaraouCoroa.pdb
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\CaraouCoroa\obj\Debug\net6.0\CaraouCoroa.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\CaraouCoroa\obj\Debug\net6.0\CaraouCoroa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\CaraouCoroa\obj\Debug\net6.0\CaraouCoroa.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\CaraouCoroa\obj\Debug\net6.0\CaraouCoroa.AssemblyInfo.cs
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\CaraouCoroa\obj\Debug\net6.0\CaraouCoroa.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\CaraouCoroa\obj\Debug\net6.0\CaraouCoroa.dll
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\CaraouCoroa\obj\Debug\net6.0\refint\CaraouCoroa.dll
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\CaraouCoroa\obj\Debug\net6.0\CaraouCoroa.pdb
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\CaraouCoroa\obj\Debug\net6.0\CaraouCoroa.genruntimeconfig.cache
+C:\Users\julio\Desktop\Estudos\C#Beecrowd\Medio\CaraouCoroa\obj\Debug\net6.0\ref\CaraouCoroa.dll
